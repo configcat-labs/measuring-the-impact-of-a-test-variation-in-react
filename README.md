@@ -1,10 +1,5 @@
-# Measuring the impact of a test variation in React with Amplitude and ConfigCat
-A companion repo for "Measuring the impact of a test variation in React with Amplitude and ConfigCat"
-
-## Introduction
-To keep an app or website functioning, a business may choose to roll out new features or make updates. If these updates or features are somehow shipped with bugs and are not well received by users, this may cause a decline in user engagement and can lead to revenue losses.
-
-In the article, we setup an A/B testing scenario where we measure the impact of changing the discount amount in the header section of a React app. We covered everything from integrating Amplitude (amplitude-js) into our app to creating, tracking events and mimicking multiple unique user clicks.
+# A sample apps showcasing how to measure the impact of a test variation in React with Amplitude and ConfigCat
+The complete code for a companion application built for the "Measuring the impact of a test variation in React with Amplitude and ConfigCat" article.
 
 ## About the sample app
 This is what the sample app looks like:
