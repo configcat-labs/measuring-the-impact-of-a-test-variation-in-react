@@ -1,5 +1,6 @@
-# A sample apps showcasing how to measure the impact of a test variation in React with Amplitude and ConfigCat
-The complete code for a companion application built for the "Measuring the impact of a test variation in React with [Amplitude](https://amplitude.com) and [ConfigCat](https://configcat.com)" article.
+# Measuring the impact of a test variation in React with Amplitude and ConfigCat
+
+## This is a companion sample app to the [**"Measuring the impact of a test variation in React with [Amplitude](https://amplitude.com) and [ConfigCat](https://configcat.com)"**](https://configcat.com/blog/2022/05/18/measuring-the-impact-of-a-test-variation-in-react/) article.
 
 ## About the sample app
 This is what the sample app looks like:
@@ -12,3 +13,17 @@ When the `Shop Now` button is clicked, an event is logged to the Amplitude analy
 2. Run `npm install` to install the app dependencies 
 3. Run `npm run start` to run the app locally.
 4. Thats it!
+
+## Learn more
+[**ConfigCat**](https://configcat.com) also supports many other frameworks and languages. Check out the full list of supported SDKs [here](https://configcat.com/docs/sdk-reference/overview/)
+
+Keep up with ConfigCat on [Twitter](https://twitter.com/configcat), [Facebook](https://www.facebook.com/configcat), [LinkedIn](https://www.linkedin.com/company/configcat/), and [GitHub](https://github.com/configcat).
+
+Read up on Amplitude [here](https://amplitude.com).
+Check out the React docs [here](https://reactjs.org/docs/getting-started.html).
+
+## Author
+[Chavez Harris](https://github.com/codedbychavez)
+
+## Contributions
+Contributions are welcome!
