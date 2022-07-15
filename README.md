@@ -1,6 +1,6 @@
 # Measuring the impact of a test variation in React with Amplitude and ConfigCat
 
-## This is a companion sample app to the [**"Measuring the impact of a test variation in React with [Amplitude](https://amplitude.com) and [ConfigCat](https://configcat.com)"**](https://configcat.com/blog/2022/05/18/measuring-the-impact-of-a-test-variation-in-react/) article.
+## This is a companion sample app to the [**"Measuring the impact of a test variation in React with Aplitude and ConfigCat"**](https://configcat.com/blog/2022/05/18/measuring-the-impact-of-a-test-variation-in-react/) article.
 
 ## About the sample app
 This is what the sample app looks like:
