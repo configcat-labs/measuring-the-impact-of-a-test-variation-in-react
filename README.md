@@ -19,6 +19,8 @@ When the `Shop Now` button is clicked, an event is logged to the Amplitude analy
 
 Keep up with ConfigCat on [Twitter](https://twitter.com/configcat), [Facebook](https://www.facebook.com/configcat), [LinkedIn](https://www.linkedin.com/company/configcat/), and [GitHub](https://github.com/configcat).
 
+You can also explore other code samples for various languages, frameworks, and topics here in the [ConfigCat labs](https://github.com/configcat-labs) on GitHub.
+
 Read up on Amplitude [here](https://amplitude.com).
 Check out the React docs [here](https://reactjs.org/docs/getting-started.html).
 
